@@ -12,10 +12,12 @@ I'm passionate about threat detection, incident response, and defensive security
 - Log Analysis and Detection Engineering
 
 ## 🛠️ Tools & Technologies
-- **SIEM**: Splunk, Elastic Stack, Microsoft Sentinel
-- **Operating Systems**: Kali Linux, Windows, Ubuntu
-- **Scripting**: Python, Bash
-- **Others**: Wireshark, Burp Suite, VMware
+- Security Tools: Nessus, Metasploit, Nmap, Wireshark, VeraCrypt, HxD
+- SIEM: Splunk (learning)
+- Operating Systems: Kali Linux, Windows
+- Scripting: Python, Bash
+- Networking: Cisco Packet Tracer
+- Virtualization: VMware Workstation
 
 ## 📂 What I'm Working On
 - Cybersecurity Notes & Cheat Sheets 
